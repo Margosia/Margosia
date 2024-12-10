@@ -1,7 +1,7 @@
 - 🙋‍♀️ Hi, I’m @Margosia
 - ✍️ I’m interested in HTML, CSS and JavaScript
 - 📖 I’m currently learning to be Frontend Developer
-- 📫 How to reach me: www.linkedin.com/in/malgorzatarepczynska 🐈
+- 📫 How to reach me: https://www.linkedin.com/in/mrep/  🐈
 - I love Cats 😻
 
 <!---
